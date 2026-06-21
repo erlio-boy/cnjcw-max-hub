@@ -1,2 +1,14 @@
 # cnjcw-max-hub
-HTML page archive and documentation
+
+页面归档与发布记录
+
+该仓库用于页面文件整理，不针对单个页面做额外说明。
+
+## 文件用途
+
+- HTML 文件保存页面内容
+- README 记录仓库基本信息
+
+## 提交说明
+
+页面文件由程序提交，提交历史可作为变更记录参考。
